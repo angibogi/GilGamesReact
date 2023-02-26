@@ -24,7 +24,7 @@ https://angibogi.github.io/GilGamesReact/
 <p> My project uses free api with all free to play games </p> 
 
 
-<code
+<code>
  <p>API LINK: https://www.freetogame.com/api-doc</p> 
 </code>
 
