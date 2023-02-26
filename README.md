@@ -40,3 +40,8 @@ https://angibogi.github.io/GilGamesReact/
 </code>
 </pre>
 
+Screenshots
+![gg](https://user-images.githubusercontent.com/116234078/221414516-29f797a0-b1ed-4a31-93e0-083056f157d2.jpg)
+
+![ggt](https://user-images.githubusercontent.com/116234078/221414580-08250d8d-2e86-4aab-902e-017bbca7dd21.jpg)
+
