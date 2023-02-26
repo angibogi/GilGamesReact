@@ -4,9 +4,11 @@
 https://angibogi.github.io/GilGamesReact/
 
 <h2>Technologies used </h2>
-REACT JS
-HTML5
-CSS
-JAVASCRIPT
-REACTSTRAP
-BOOTSTRAP
+<ul>
+<li>REACT JS
+<li>HTML5</li>
+<li>CSS</li>
+<li>JAVASCRIPT</li>
+<li>REACTSTRAP</li>
+<li>BOOTSTRAP</li>
+</ul>
