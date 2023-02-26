@@ -11,4 +11,11 @@ https://angibogi.github.io/GilGamesReact/
 <li>JAVASCRIPT</li>
 <li>REACTSTRAP</li>
 <li>BOOTSTRAP</li>
+<li><a href="https://auth0.com/">Auth0</a></li>
 </ul>
+
+<pre>
+<code>
+  API LINK: https://www.freetogame.com/api-doc
+</code>
+</pre>
