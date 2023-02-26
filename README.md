@@ -6,16 +6,16 @@
 
 https://angibogi.github.io/GilGamesReact/
 
-<h2>Aviable Script </h2>
+<h2>Available Scripts</h2>
 
-In the project directory, you can run:
+<p>In the project directory, you can run:</p>
 
-npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser.
+<code>npm start</code>
+<p>Runs the app in the development mode.</p>
+<p>Open http://localhost:3000 to view it in the browser.</p>
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+<p>The page will reload if you make edits.</p>
+<p>You will also see any lint errors in the console.</p>
 
 <h2>Technologies used </h2>
 <ul>
