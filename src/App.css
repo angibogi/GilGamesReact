@@ -1,0 +1,110 @@
+.App{
+    color: cornsilk;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right, #022345, #0e1f3c, #131b34, #15172c, #151424);
+}
+
+
+
+.single_icon
+{
+    margin-bottom: 10px;
+}
+
+input
+{
+    color:#151515!important;
+}
+
+
+
+
+h5
+{
+    font-weight: bold;
+}
+
+.developer
+{
+    float: bottom;
+    text-align: end;
+}
+
+
+.side_bar
+{
+    background-color: #244567;
+    border: 3px solid #151515;
+    box-shadow: 0 5px 15px rgb(0 0 0 / 100%);
+    border-radius: 20px;
+
+
+}
+
+.search-inner input {
+    border: 3px solid #151515;
+    box-shadow: 0 5px 15px rgb(0 0 0 / 100%);
+    border-radius: 20px;
+    padding: 5px;
+}
+
+
+
+
+.game_card{
+    border: 3px solid #151515;
+    width: 300px;
+    height: 400px;
+    background-color: #123356;
+    box-shadow: 0 5px 15px rgb(0 0 0 / 100%);
+    color: cornsilk;
+    border-radius: 20px;
+    transition: transform 0.6s;
+    transform: scale(0.9);
+
+}
+
+.game_card img
+{
+    width: 100%;
+    border-bottom: solid #151515 5px;
+    border-radius: 20px;
+}
+
+.game_card:hover
+{
+    transform: scale(1);
+    transition-timing-function: ease-in-out;
+
+}
+
+.btn_games
+{
+    width: 300px;
+    height: 50px;
+    border-radius: 50px;
+    border: #151515 solid 3px;
+    color: black;
+
+}
+.btn_games:hover
+{
+    background-color: #151515;
+    color: cornsilk;
+}
+
+.breadcrumb-item a:hover
+{
+    color: cornsilk!important;
+}
+
+
+
+
+

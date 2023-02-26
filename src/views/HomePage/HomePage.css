@@ -1,0 +1,92 @@
+.carousel-item
+{
+    border-radius: 20px;
+    border: 3px solid  #151515;
+}
+
+.carousel_image
+{
+    opacity: 0.8;
+    border-radius: 20px;
+}
+
+.carousel-caption
+{
+    color: cornsilk;
+    background-color: #123356;
+    border-radius: 20px;
+    border: 3px solid  #151515;
+    padding: 20px;
+
+}
+
+.carousel-indicators button
+{
+    margin-top: 20px;
+    width: 20px!important;
+    margin-bottom: 20px;
+}
+
+
+.free
+{
+    position: absolute;
+    padding: 10px;
+    bottom: 2px;
+    right: 0;
+
+
+
+}
+
+.free button
+{
+    border: 2px solid #151515;
+    background-color: #05326c;
+    color: cornsilk;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+
+
+.home_card{
+    border: 3px solid #151515;
+    width: 400px;
+    height: 500px;
+    background-color: #123356;
+    box-shadow: 0 5px 15px rgb(0 0 0 / 100%);
+    color: cornsilk;
+    border-radius: 20px;
+    transition: transform 0.6s;
+    transform: scale(0.9);
+
+}
+
+.home_card img
+{
+    width: 100%;
+    border-bottom: solid #151515 5px;
+    border-radius: 20px;
+}
+
+.home_card:hover
+{
+    transform: scale(1);
+    transition-timing-function: ease-in-out;
+
+}
+
+.home_box
+{
+    padding: 20px 0 0 2%;
+}
+
+
+@media (max-width: 768px)
+{
+    .carousel
+    {
+        display: none;
+    }
+}

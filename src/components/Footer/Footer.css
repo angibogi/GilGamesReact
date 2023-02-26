@@ -1,0 +1,31 @@
+footer
+{
+    position: relative;
+    background-color: #15172c;
+    padding: 50px;
+    width: 100%;
+    bottom: 0;
+}
+
+.span
+{
+    cursor: pointer;
+}
+
+.logo_footer
+{
+    width: 50px;
+}
+
+a{
+    color: cornsilk;
+}
+
+a:hover{
+    color: #123356;
+}
+
+
+h6{
+    color: cornsilk;
+}

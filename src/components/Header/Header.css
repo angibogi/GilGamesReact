@@ -1,0 +1,178 @@
+.navbar {
+    display: inline-block;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #123356;
+    border-bottom: 3px solid #151424;
+    color: cornsilk;
+}
+
+.logo {
+    transition: all .2s;
+    margin-right: 20px;
+}
+
+.logo:hover {
+    transform: scale(1.1);
+}
+
+.logo img
+{
+    width: 50px;
+}
+
+.nav-links a {
+
+    color: cornsilk;
+}
+
+.menu {
+
+    display: flex;
+    float: right;
+margin-top: -40px;
+}
+
+.menu .nav_item:hover {
+
+    background-color: #244567;
+
+    border-radius: 20px;
+
+    transition: 0.3s ease;
+}
+
+.menu .nav_item {
+
+    margin-right: 20px;
+
+}
+
+
+span{
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px 10px;
+}
+
+.search-nav
+{
+    color: cornsilk;
+
+}
+
+.search-nav:hover
+{
+    color: cornsilk;
+    transform: scale(1.1);
+}
+
+
+
+
+.search_box
+{
+    margin-bottom: 380px;
+}
+
+
+
+
+
+
+
+
+
+.login p
+{
+    display: inline-block;
+    margin-left: 5px;
+}
+
+
+input[type=checkbox]{
+
+    display: none;
+
+}  .hamburger {
+
+    display: none;
+
+    font-size: 24px;
+
+    user-select: none;
+
+       float: right;
+       margin-top: -40px;
+
+}
+
+
+@media (max-width: 768px) {
+
+
+
+    .menu {
+
+        display:none;
+
+        position: absolute;
+
+        background-color: #123356;
+
+        right: 0;
+
+        left: 0;
+
+        text-align: center;
+
+        top: 100px;
+
+        height: 100vh;
+
+        z-index: 1000000;
+
+        padding: 100px;
+
+    }
+
+
+
+
+    input[type=checkbox]:checked ~ .menu{
+
+        display: block;
+
+    }
+
+    .hamburger {
+
+        display: block;
+
+    }
+
+    .menu .nav_item {
+
+        display: block;
+        margin-right: 0;
+        margin-top: 0;
+        margin-bottom: 20px;
+
+    }
+
+
+    span
+    {
+        font-size: 18px!important;
+    }
+
+
+
+
+}
+
+
+
+

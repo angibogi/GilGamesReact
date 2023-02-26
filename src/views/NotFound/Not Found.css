@@ -1,0 +1,30 @@
+.error img
+{
+    width: 400px;
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+.error h1
+{
+    font-size: 80px;
+    margin: 0;
+}
+
+.error button
+{
+    border: 3px solid #151515;
+    background-color: cornsilk;
+    color: #151515;
+    border-radius: 50px;
+    margin-left: 10px;
+    width: 300px;
+    height: 60px;
+}
+
+.error button:hover
+{
+    background-color: #151515;
+    color: cornsilk;
+}
+
