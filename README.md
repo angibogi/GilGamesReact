@@ -20,12 +20,11 @@ https://angibogi.github.io/GilGamesReact/
 </ul>
 
 
-
 <h2>API used </h2>
 <p> My project uses free api containing all free to play games </p> 
 
 <pre>
 <code
-  API LINK: https://www.freetogame.com/api-doc
+  "API LINK: https://www.freetogame.com/api-doc"
 </code>
 </pre>
