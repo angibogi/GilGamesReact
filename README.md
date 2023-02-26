@@ -1,5 +1,8 @@
 <h1> Gil Games </h1>
 
+<p>This single page application was created for the course of Web Applications of the University of Milano-Bicocca using Create React App</p>
+
+<h2>Website </h2>
 
 https://angibogi.github.io/GilGamesReact/
 
