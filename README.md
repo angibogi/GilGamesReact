@@ -19,15 +19,11 @@ https://angibogi.github.io/GilGamesReact/
 <li><a href="https://react-icons.github.io/react-icons/">React Icons</a></li>
 </ul>
 
-React Router
-<pre>
-<code
-npm i react-router-dom
-</code>
-</pre>
+
 
 <h2>API used </h2>
 <p> My project uses free api containing all free to play games </p> 
+
 <pre>
 <code
   API LINK: https://www.freetogame.com/api-doc
